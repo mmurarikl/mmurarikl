@@ -23,6 +23,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mmurarikl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-**For fun:**
+🤭 **For fun:**
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=radzillah)
