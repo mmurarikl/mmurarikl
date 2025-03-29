@@ -9,7 +9,7 @@
 
 🌱 I’m currently studying web development and digital publishing. 
 
--*This is my first semester working with HTML*
+-*This is my first semester working with HTML.*
 
 ![giphy](https://github.com/user-attachments/assets/128b781c-e665-4e9e-89d1-5d80b9000350)
 
@@ -20,3 +20,9 @@
 **My Github Stats**
 
 ![Mequila's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmurarikl&theme=vision-friendly-dark=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmurarikl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+**For fun:**
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=radzillah)
