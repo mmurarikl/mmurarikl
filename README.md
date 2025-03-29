@@ -8,9 +8,12 @@
 🔭 I'm currently a Graphic Information Technology student at Arizona State University.
 
 🌱 I’m currently studying web development and digital publishing. 
+
 -*This is my first semester working with HTML*
 
-💬 Ask me about my design background that began with a studio art career. 
+![giphy](https://github.com/user-attachments/assets/128b781c-e665-4e9e-89d1-5d80b9000350)
 
-⚡ Fun fact: Previously, I was a military working dog handler in the U.S. Navy.
+💬 Ask me about my studio art!
+
+⚡ Fun fact: Previously, I was a military working dog handler in the U.S. Navy, but now I'm a dog mom of 3. 
 
