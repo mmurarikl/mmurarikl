@@ -17,3 +17,6 @@
 
 ⚡ Fun fact: Previously, I was a military working dog handler in the U.S. Navy, but now I'm a dog mom of 3. 
 
+**My Github Stats**
+
+![Mequila's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmurarikl&theme=vision-friendly-dark=true)
