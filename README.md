@@ -7,7 +7,7 @@
 
 🔭 I'm currently a Graphic Information Technology student at Arizona State University.
 
-🌱 I’m currently studying web development and digital publishing. 
+🌱 I’m currently studying front end web development. 
 
 ![giphy](https://github.com/user-attachments/assets/128b781c-e665-4e9e-89d1-5d80b9000350)
 
