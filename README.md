@@ -1,4 +1,6 @@
-**Hi there 👋**
+## 👋 Hi, I’m Mequila
+
+Designer + Front-End Developer focused on clean, functional, and visually engaging web experiences.
 
 <!--
 **mmurarikl/mmurarikl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -11,10 +13,15 @@
 
 ![giphy](https://github.com/user-attachments/assets/128b781c-e665-4e9e-89d1-5d80b9000350)
 
+💬 Ask me about my studio art!
+
+⚡ Fun fact: Previously, I was a military working dog handler in the U.S. Navy, but now I'm a dog mom of 3. 
+
+
 ## 📫 Contact
 
 Email: mmurarik@asu.edu  
-Portfolio: [(https://github.com/mmurarikl/meqmura-design)](https://mmurarikl.github.io/meqmura-design/)  
+Portfolio: https://mmurarikl.github.io/meqmura-design/
 
 ## 💻 Coding Languages
 
@@ -28,26 +35,24 @@ Front-end development
 UI/UX design  
 Building clean and functional web experiences  
 
-💬 Ask me about my studio art!
-
-⚡ Fun fact: Previously, I was a military working dog handler in the U.S. Navy, but now I'm a dog mom of 3. 
-
 ## 🚀 Projects
 
-Codepen: https://codepen.io/mmurarikl
+**CodePen Work**  
+🔗 https://codepen.io/mmurarikl  
 
 **Portfolio Website**  
+Personal website showcasing my design and development work  
 🔗 https://github.com/mmurarikl/meqmura-design  
 
-*George Che Jewelry Website (In Progress)*  
+**George Che Jewelry Website (In Progress)**  
 Client-based website focused on layout and user experience  
-🔗 https://github.com/mmurarikl/georgechejewelry 
+🔗 https://github.com/mmurarikl/georgechejewelry  
 
-*HTML/CSS Semantic Layout Project*  
+**HTML/CSS Semantic Layout Project**  
 Focused on clean structure and functional design  
-🔗 https://github.com/mmurarikl/final-project
+🔗 https://github.com/mmurarikl/final-project  
 
-**My Github Stats**
+## My Github Stats
 
 ![Mequila's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmurarikl&theme=vision-friendly-dark=true)
 
