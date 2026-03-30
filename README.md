@@ -3,7 +3,7 @@
 <!--
 **mmurarikl/mmurarikl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-**About me**
+## About me
 
 🔭 I'm currently a Graphic Information Technology student at Arizona State University.
 
@@ -11,18 +11,18 @@
 
 ![giphy](https://github.com/user-attachments/assets/128b781c-e665-4e9e-89d1-5d80b9000350)
 
-**📫 Contact**
+## 📫 Contact
 
 Email: mmurarik@asu.edu  
 Portfolio: (https://github.com/mmurarikl/meqmura-design)  
 
-**💻 Coding Languages**
+## 💻 Coding Languages
 
 HTML  
 CSS  
 JavaScript (learning)
 
-**🌱 Current Interests**
+## 🌱 Current Interests**
 
 Front-end development  
 UI/UX design  
@@ -32,7 +32,7 @@ Building clean and functional web experiences
 
 ⚡ Fun fact: Previously, I was a military working dog handler in the U.S. Navy, but now I'm a dog mom of 3. 
 
-**🚀 Projects**
+## 🚀 Projects**
 
 Codepen: https://codepen.io/mmurarikl
 
