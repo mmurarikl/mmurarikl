@@ -14,7 +14,7 @@
 ## 📫 Contact
 
 Email: mmurarik@asu.edu  
-Portfolio: (https://github.com/mmurarikl/meqmura-design)  
+Portfolio: [(https://github.com/mmurarikl/meqmura-design)](https://mmurarikl.github.io/meqmura-design/)  
 
 ## 💻 Coding Languages
 
