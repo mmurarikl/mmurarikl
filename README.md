@@ -11,9 +11,38 @@
 
 ![giphy](https://github.com/user-attachments/assets/128b781c-e665-4e9e-89d1-5d80b9000350)
 
+### 📫 Contact
+Email: mmurarik@asu.edu  
+Portfolio: https://your-website-link.com  
+LinkedIn: (optional)
+
+### 💻 Coding Languages
+HTML  
+CSS  
+JavaScript (learning)
+
+### 🌱 Current Interests
+Front-end development  
+UI/UX design  
+Building clean and functional web experiences  
+
 💬 Ask me about my studio art!
 
 ⚡ Fun fact: Previously, I was a military working dog handler in the U.S. Navy, but now I'm a dog mom of 3. 
+
+### 🚀 Projects
+
+**Portfolio Website**  
+Personal website showcasing my work and development skills  
+🔗 https://github.com/mmurarikl/meqmura-design  
+
+**George Che Jewelry Website (In Progress)**  
+Client-based website focused on layout and user experience  
+🔗 https://github.com/mmurarikl/georgechejewelry 
+
+**HTML/CSS Semantic Layout Project**  
+Focused on clean structure and functional design  
+🔗 https://github.com/mmurarikl/ 
 
 **My Github Stats**
 
