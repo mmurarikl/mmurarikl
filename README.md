@@ -14,14 +14,14 @@
 ### 📫 Contact
 Email: mmurarik@asu.edu  
 Portfolio: https://your-website-link.com  
-LinkedIn: (optional)
+Codepen: https://codepen.io/mmurarikl
 
-### 💻 Coding Languages
+**💻 Coding Languages**
 HTML  
 CSS  
 JavaScript (learning)
 
-### 🌱 Current Interests
+**🌱 Current Interests**
 Front-end development  
 UI/UX design  
 Building clean and functional web experiences  
@@ -30,7 +30,7 @@ Building clean and functional web experiences
 
 ⚡ Fun fact: Previously, I was a military working dog handler in the U.S. Navy, but now I'm a dog mom of 3. 
 
-### 🚀 Projects
+**🚀 Projects**
 
 **Portfolio Website**  
 Personal website showcasing my work and development skills  
@@ -42,7 +42,7 @@ Client-based website focused on layout and user experience
 
 **HTML/CSS Semantic Layout Project**  
 Focused on clean structure and functional design  
-🔗 https://github.com/mmurarikl/ 
+🔗 https://github.com/mmurarikl/final-project
 
 **My Github Stats**
 
