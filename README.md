@@ -17,11 +17,13 @@ Email: mmurarik@asu.edu
 Portfolio: (https://github.com/mmurarikl/meqmura-design)  
 
 **💻 Coding Languages**
+
 HTML  
 CSS  
 JavaScript (learning)
 
 **🌱 Current Interests**
+
 Front-end development  
 UI/UX design  
 Building clean and functional web experiences  
